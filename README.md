@@ -1,12 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <img src="https://www.alamy.com/stock-photo-black-and-white-library-logotype-on-white-background-school-vector-149396619.html" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>OOP School Library</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -182,6 +173,6 @@ I would like to appreciate [Microverse](https://www.microverse.org/) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](https://github.com/chepkok3/OOP-school-library/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
