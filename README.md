@@ -10,7 +10,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
@@ -31,9 +30,13 @@
 
 - Ruby
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Tech Stack <a name="tech-stack"></a>
 
 - Ruby
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
 
@@ -44,13 +47,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
@@ -67,23 +70,23 @@ Example command:
 
 -->
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Setup
 
-- Clone this repository to your desired folder: https://github.com/chepkok3/OOP-school-library.git
-- Run bundle install to install the dependencies.
+- cd my-folder
+- git clone https://github.com/chepkok3/OOP-school-library.git
+- cd school_library
 
-### Install
-
-Install this project with:
-
-- cd oop-school-library
-- ubuntu version 22 or higher
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Usage
 
 To run the project, execute the following command:
 
 - ruby test_list.rb
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
 
@@ -98,6 +101,8 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Deployment
 
@@ -128,7 +133,6 @@ Example:
 - GitHub: [@chepkok3](https://github.com/chepkok3)
 - Twitter: [@chepkok3](https://twitter.com/home)
 - LinkedIn: [@chepkok3](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
-- email: [@chepkok3](stanleykibor.ks@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +150,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../https://github.com/chepkok3/OOP-school-library/issues/).
+Feel free to check the [issues page](https://github.com/chepkok3/OOP-school-library/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,8 +167,6 @@ Please ⭐️ this repository if this project helped you!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and support.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
