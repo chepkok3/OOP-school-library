@@ -138,7 +138,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../https://github.com/chepkok3/OOP-school-library/issues/).
+Feel free to check the [issues page](../https://github.com/chepkok3/OOP-school-library/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
