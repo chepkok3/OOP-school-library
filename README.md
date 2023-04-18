@@ -10,7 +10,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
@@ -69,15 +68,9 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: https://github.com/chepkok3/OOP-school-library.git
-- Run bundle install to install the dependencies.
-
-### Install
-
-Install this project with:
-
-- cd oop-school-library
-- ubuntu version 22 or higher
+ - cd my-folder
+ - git clone https://github.com/chepkok3/OOP-school-library.git
+ - cd school_library
 
 ### Usage
 
