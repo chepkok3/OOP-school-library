@@ -121,7 +121,6 @@ Example:
 - GitHub: [@chepkok3](https://github.com/chepkok3)
 - Twitter: [@chepkok3](https://twitter.com/home)
 - LinkedIn: [@chepkok3](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
-- email: [@chepkok3](stanleykibor.ks@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
