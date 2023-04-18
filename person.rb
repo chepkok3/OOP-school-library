@@ -1,8 +1,11 @@
-class Person
-  def initialize(_name, _age, parent_permission: true)
+require_relative 'nameable'
+
+class Person < Nameable
+  def initialize(name, age, parent_permission: true)
+    super()
     @id = Random.rand(1..1000)
-    @name = 'Unknown'
-    @age = 0
+    @name = name
+    @age = age
     @parent_permission = parent_permission
   end
 
@@ -16,5 +19,9 @@ class Person
 
   def of_age?
     @age >= 18
+  end
+
+  def correct_name
+    @name
   end
 end

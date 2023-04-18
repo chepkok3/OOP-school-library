@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -77,7 +76,7 @@ Example command:
 
 Install this project with:
 
-- cd opp-school-library
+- cd oop-school-library
 - ubuntu version 22 or higher
 
 ### Usage
