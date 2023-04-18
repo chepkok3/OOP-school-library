@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -11,7 +10,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
@@ -70,15 +68,9 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: https://github.com/chepkok3/OOP-school-library.git
-- Run bundle install to install the dependencies.
-
-### Install
-
-Install this project with:
-
-- cd opp-school-library
-- ubuntu version 22 or higher
+ - cd my-folder
+ - git clone https://github.com/chepkok3/OOP-school-library.git
+ - cd school_library
 
 ### Usage
 
@@ -129,7 +121,6 @@ Example:
 - GitHub: [@chepkok3](https://github.com/chepkok3)
 - Twitter: [@chepkok3](https://twitter.com/home)
 - LinkedIn: [@chepkok3](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
-- email: [@chepkok3](stanleykibor.ks@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +138,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../https://github.com/chepkok3/OOP-school-library/issues/).
+Feel free to check the [issues page](https://github.com/chepkok3/OOP-school-library/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
