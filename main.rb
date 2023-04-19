@@ -40,4 +40,3 @@ def main
   puts 'Thank you for using the Library App. Goodbye!'
 end
 main
-
