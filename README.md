@@ -83,7 +83,7 @@ Example command:
 
 To run the project, execute the following command:
 
-- ruby test_list.rb
+- ruby main.rb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +91,7 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-- Run robocop .
+- rspec
 
 <!--
 Example command:
@@ -139,7 +139,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Additional features will be added as the project progresses.
+- Better UI Experience
+- Reduce Time & Space Complexity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
