@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -30,9 +29,13 @@
 
 - Ruby
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Tech Stack <a name="tech-stack"></a>
 
 - Ruby
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
 
@@ -43,13 +46,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
@@ -65,24 +68,29 @@ Example command:
 ```
 
 -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
- - cd my-folder
- - git clone https://github.com/chepkok3/OOP-school-library.git
- - cd school_library
+- cd my-folder
+- git clone https://github.com/chepkok3/OOP-school-library.git
+- cd school_library
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Usage
 
 To run the project, execute the following command:
 
-- ruby test_list.rb
+- ruby main.rb
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
 
 To run tests, run the following command:
 
-- Run robocop .
+- rspec
 
 <!--
 Example command:
@@ -91,6 +99,8 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Deployment
 
@@ -128,7 +138,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Additional features will be added as the project progresses.
+- Better UI Experience
+- Reduce Time & Space Complexity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,8 +166,6 @@ Please ⭐️ this repository if this project helped you!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and support.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
